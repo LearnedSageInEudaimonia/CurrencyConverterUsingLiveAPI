@@ -34,4 +34,4 @@ CurrencyConverter/
 │
 ├── history.csv                # Stores conversion history (auto-created on first run)
 ├── README.md                  # Project documentation
-├── pom.xml                    # Using Maven for dependency management
+└── pom.xml                    # Using Maven for dependency management
